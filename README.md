@@ -1,2 +1,5 @@
-# CPP-My-Study-Functions
-Practice the features have learned. 배운 기능들을 연습하는 곳! (C++)
+# My C++ Study <br/>
+
+- #### Space for organizing fragmentary content learned in C++ language.
+
+- #### C++로 배운 단편적인 내용을 정리하는 공간.
